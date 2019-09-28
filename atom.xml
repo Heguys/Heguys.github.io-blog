@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>heguys&#39; blog</title>
+  
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://heguys.github.io/blog/"/>
+  <updated>2019-09-27T10:29:39.980Z</updated>
+  <id>https://heguys.github.io/blog/</id>
+  
+  <author>
+    <name>heguys</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux快捷键</title>
+    <link href="https://heguys.github.io/blog/2019/09/27/Linux%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://heguys.github.io/blog/2019/09/27/Linux快捷键/</id>
+    <published>2019-09-27T09:21:54.000Z</published>
+    <updated>2019-09-27T10:29:39.980Z</updated>
+    
+    <content type="html"><![CDATA[<p>删除<br>ctrl + d 删除光标所在位置上的字符<br>ctrl + h 删除光标所在位置前的字符<br>ctrl + k 删除光标后面所有字符<br>ctrl + u 删除光标前面所有字符<br>ctrl + w 删除光标前一个单词<br>ctrl + y 恢复ctrl+u上次执行时删除的字符<br>ctrl + ? 撤消前一次输入<br>alt + r 撤消前一次动作<br>alt + d 删除光标所在位置的后单词</p><p>移动<br>ctrl + a 将光标移动到命令行开头<br>ctrl + e 将光标移动到命令行结尾处<br>ctrl + f 光标向后移动一个字符<br>ctrl + b 光标向前移动一个字符<br>ctrl + 方向键左键 光标移动到前一个单词开头<br>ctrl + 方向键右键 光标移动到后一个单词结尾<br>ctrl + x 在上次光标所在字符和当前光标所在字符之间跳转<br>alt + f 跳到光标所在位置单词尾部<br>Ctrl + x + x - 移动光标到开头或者当前位置<br>Ctrl + x + @ 输出/etc/hosts下的所有主机名<br>Ctrl + z 暂停/停止 当前命令</p><p>替换<br>ctrl + t 将光标当前字符与前面一个字符替换<br>alt + t 交换两个光标当前所处位置单词和光标前一个单词<br>alt + u 把光标当前位置单词变为大写<br>alt + l 把光标当前位置单词变为小写<br>alt + c 把光标当前位置单词头一个字母变为大写<br>^oldstr^newstr 替换前一次命令中字符串</p><p>历史命令编辑<br>ctrl + p 返回上一次输入命令字符<br>ctrl + r 输入单词搜索历史命令<br>Ctrl + R 输入单词搜索多次出现的命令<br>alt + p 输入字符查找与字符相接近的历史命令<br>alt + &gt; 返回上一次执行命令</p><p>其它<br>ctrl + s 锁住终端<br>ctrl + q 解锁终端<br>ctrl + l 清屏<br>ctrl + c 另起一行<br>ctrl + i 类似TAB健补全功能<br>ctrl + o 重复执行命令<br>alt + 数字键 操作的次数</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;删除&lt;br&gt;ctrl + d 删除光标所在位置上的字符&lt;br&gt;ctrl + h 删除光标所在位置前的字符&lt;br&gt;ctrl + k 删除光标后面所有字符&lt;br&gt;ctrl + u 删除光标前面所有字符&lt;br&gt;ctrl + w 删除光标前一个单词&lt;br&gt;ctrl + y 恢复ct
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Linux" scheme="https://heguys.github.io/blog/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
